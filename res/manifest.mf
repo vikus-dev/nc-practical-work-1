@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Kush
+Main-Class: ua.edu.sumdu.j2se.pr1.MainClass
+
